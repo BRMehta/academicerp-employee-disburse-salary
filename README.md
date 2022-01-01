@@ -2,7 +2,7 @@
 
 ### In this project, I have implemented a small part of the entire academic erp that is Disburse the salary of single employee or selection of employees,modify salary details and adding an employee to the database.
 
-In this project, we have used HTML, CSS, JavaScript for the frontend and We use Hibernate(Java) as the backend and MySql as the database.
+In this project, we have used HTML, CSS, Bootstrap, JavaScript for the frontend and We use Hibernate(Java) as the backend and MySql as the database.
 
 To run this project do the following.
 
