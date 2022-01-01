@@ -13,8 +13,8 @@ To run this project do the following.
 * Now we need to specify your MySql database `username` and `password` inside the `hibernate.cfg.xml` file. To do so go to `src->resources->hibernate.cfg.xml`. 
 Inside that change following 2 lines. Instead of root and rootroot write your MySql username and password.
   ``` 
-  <property name="connection.username">root</property>
-  <property name="connection.password">rootroot</property>
+  <property name="connection.username">bhargav</property>
+  <property name="connection.password">password</property>
   ```
   Now your database is configuration is done. Now the application will be able to talk to the database and store and retrieve the data from it.
 
