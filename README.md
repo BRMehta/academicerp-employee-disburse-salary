@@ -1,6 +1,6 @@
 # Academic ERP Employee Disburse Salary
 
-### In this project, I have implemented a small part of the entire academic erp that is Disburse the salary of single employee or selection of employees,modify salary details and adding an employee to the database.
+### In this project, I have implemented a small part of the entire academic ERP that is Disburse the salary of a single employee or selection of employees, modify salary details, and add an employee to the database.
 
 In this project, I have used HTML, CSS, Bootstrap, JavaScript for the frontend and We use Hibernate(Java) as the backend and MySql as the database.
 
