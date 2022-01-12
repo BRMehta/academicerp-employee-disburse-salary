@@ -11,7 +11,7 @@ To run this project do the following.
 * The source code is inside the `academicerpv1` folder so open this folder in the Intellij IDEA code editor.
 
 * Now we need to specify your MySql database `username` and `password` inside the `hibernate.cfg.xml` file. To do so go to `src->resources->hibernate.cfg.xml`. 
-Inside that change following 2 lines. Instead of root and rootroot write your MySql username and password.
+Inside that change following 2 lines. Instead of "bhargav" and "password" write your MySql username and password.
   ``` 
   <property name="connection.username">bhargav</property>
   <property name="connection.password">password</property>
